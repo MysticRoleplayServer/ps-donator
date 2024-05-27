@@ -24,6 +24,7 @@ Config.CoinShop = {
 }
 
 Config.Packages = {
-    ["coinpack1"] = 100, -- Number of coins given on redemption.
-    ["coinpack2"] = 200, -- Number of coins given on redemption.
+    ["CoinPack1"] = 100, -- Number of coins given on redemption.
+    ["CoinPack2"] = 200, -- Number of coins given on redemption.
+    ["CarBonus"] = 1000, -- Number of coins given on redemption.
 }
