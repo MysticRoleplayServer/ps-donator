@@ -37,7 +37,7 @@ CreateThread(function()
 
     local blip = AddBlipForCoord(Config.NPC)
     SetBlipSprite(blip, 351)
-    SetBlipScale(blip, 1.0)
+    SetBlipScale(blip, 0.7)
     SetBlipColour(blip, 50)
     BeginTextCommandSetBlipName("STRING")
     AddTextComponentSubstringPlayerName("Donator Store")
